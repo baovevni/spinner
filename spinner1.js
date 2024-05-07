@@ -20,7 +20,7 @@ setTimeout(() => {
   process.stdout.write('\r|   \n'); 
 }, 900);
 
-
+// I implemented follwoing functionality right away:
 
 // const spinners = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   \n'];
 // let interval = 100;
